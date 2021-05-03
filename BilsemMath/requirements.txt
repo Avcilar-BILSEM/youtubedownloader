@@ -1,5 +1,0 @@
-pycurl
-feedparser
-certifi
-pytube3
-tkinter
